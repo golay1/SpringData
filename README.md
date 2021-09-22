@@ -1,2 +1,2 @@
 # SpringData
-Java Spring Boot Projects using Spring Data
+Java Spring Boot Projects using Spring Data repositories. MySQL databases.
