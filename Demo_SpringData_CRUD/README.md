@@ -1,2 +1,2 @@
 # Spring Data
-Simple app to handle Customer database
+Simple CRUD app to handle Customer database
